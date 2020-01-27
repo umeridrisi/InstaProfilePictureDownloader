@@ -1,8 +1,8 @@
 <?php
 
-//	InstaProfilePhotoDownloader
-//  WebPajooh <webpajooh@gmail.com>
-//  Github: https://github.com/WebPajooh
+//   InstaProfilePhotoDownloader
+//   WebPajooh <webpajooh@gmail.com>
+//   Github: https://github.com/WebPajooh
 
 $args = $argv;
 $username = @$argv[1];
