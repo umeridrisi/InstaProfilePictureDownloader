@@ -1,4 +1,4 @@
 # Instagram Profile Picture Downloader
 
-# Example
+## Example
 `php downloader.php webpajooh`
